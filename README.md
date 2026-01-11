@@ -1,7 +1,5 @@
 # HEllO! I´m Leonardo 👋
 ### Software engineer
- <img width="3780" height="1890" alt="COMPUTER COMMUNITY" src="https://github.com/user-attachments/assets/32fd0e75-1a50-4900-8f46-80c2162bb7b2" />
-
 Soy estudiante de ingineria de software.
 Desde 2025 activo en la comunidad compatiendo contenido que sea util para poder seguir aprendiendo acerca de lenguajes de progranación, ciberseguridad, skills base.
 
@@ -32,17 +30,12 @@ Desde 2025 activo en la comunidad compatiendo contenido que sea util para poder 
 
 
 
-
 </span>
-
 
 
 ## Encuéntrame en:
 
-
 [![Instagram](https://img.shields.io/badge/Instagram-@leonardoshande-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/leonardoshande/)
-
-
 
 
 
