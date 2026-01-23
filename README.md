@@ -1,9 +1,9 @@
 # HEllO!   I´m Leonardo 👋
 ### Software engineer
-Soy estudiante de ingineria de software.
+Soy estudiante de ingeniería de software.
 Desde 2025 activo en la comunidad compatiendo contenido que sea util para poder seguir aprendiendo acerca de lenguajes de programación, ciberseguridad, skills base.
 
-## My Skills Include
+## My skills
 
 <h4> Languages </h4>
 <span> 
