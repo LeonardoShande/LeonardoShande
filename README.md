@@ -40,5 +40,5 @@ Desde 2025 activo en la comunidad compartiendo contenido que sea útil para pode
 
 
 ## Contacto y apoyo:
-![Email](https://img.shields.io/badge/zombieleo09@gmail.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
+![Email](https://img.shields.io/badge/leonardoshande.p.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 </br>
