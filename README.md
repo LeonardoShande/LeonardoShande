@@ -29,8 +29,8 @@ Desde 2025 activo en la comunidad compartiendo contenido que sea útil para pode
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <h4> Insignia </h4>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="959678b5-a334-4249-89a4-11a62ac83c76" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+ ![Cibersegurity] <img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b18e408c-f010-4066-85cf-03209ecf8fa4" />
+    
 </span>
  
 
