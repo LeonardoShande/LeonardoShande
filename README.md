@@ -28,8 +28,7 @@ Desde 2025 activo en la comunidad compartiendo contenido que sea útil para pode
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-<h4> Insignia </h4>
- ![Cisco](https://img.shields.io/badge/Cisco-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white)
+
     
 </span>
  
