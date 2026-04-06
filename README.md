@@ -29,7 +29,7 @@ Desde 2025 activo en la comunidad compartiendo contenido que sea útil para pode
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 <h4> Insignia </h4>
- ![Cibersegurity] <img src="<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/b18e408c-f010-4066-85cf-03209ecf8fa4" />
+ ![Cisco](https://img.shields.io/badge/Cisco-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white)
     
 </span>
  
