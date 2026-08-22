@@ -21,7 +21,7 @@ Interesado en temas de Ciberseguridad y estructura de software
 </span>
 
 <h4> Other Tools and Technologies </h4>
-  </span>
+  <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
