@@ -1,7 +1,7 @@
 # HEllO!   I´m Leonardo 👋
 ### Software engineer
 Soy estudiante de ingeniería de software.
-Desde 2025 activo en la comunidad compartiendo contenido que sea útil para poder seguir aprendiendo acerca de lenguajes de programación, ciberseguridad, skills base.
+Interesado en temas de Ciberseguridad y estructura de software
 
 ## My skills
 
@@ -32,13 +32,5 @@ Desde 2025 activo en la comunidad compartiendo contenido que sea útil para pode
     
 </span>
  
-
-## Encuéntrame en:
-
-[![Instagram](https://img.shields.io/badge/Instagram-@leonardoshande-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/leonardoshande/)
-
-
-
-## Contacto y apoyo:
 ![Email](https://img.shields.io/badge/leonardoshande.p.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)
 </br>
