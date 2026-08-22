@@ -1,7 +1,8 @@
 # HEllO!   I´m Leonardo 👋
 ### Software engineer
-Soy estudiante de ingeniería de software.
-Interesado en temas de Ciberseguridad y estructura de software
+I'm a Software Engineering student focused on building
+strong foundations in programming, mathematics and
+computer science.
 
 ## My skills
 
