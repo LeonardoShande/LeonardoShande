@@ -1,5 +1,5 @@
 # HEllO!   I´m Leonardo 👋
-### Software engineer
+### Software engineer student
 I'm a Software Engineering student focused on building
 strong foundations in programming, mathematics and
 computer science.
