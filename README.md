@@ -1,5 +1,5 @@
 # HEllO!   I´m Leonardo 👋
-### Software engineer student
+### Cibersegurity engineer student
 I'm a Cibersegurity Engineering student focused on building
 strong foundations in programming, mathematics and
 computer science.
