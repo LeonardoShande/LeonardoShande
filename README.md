@@ -1,4 +1,4 @@
-# HEllO!   I´m Leonardo 👋
+# I´m Leonardo Pacheco :)
 ### Cibersegurity engineer student
 I'm a Cibersegurity Engineering student focused on building
 strong foundations in programming, mathematics and
