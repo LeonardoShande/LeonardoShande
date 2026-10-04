@@ -10,7 +10,9 @@
 
 I am a Student of Cibersegurity  based in Lima , Perú.Interested in understanding how applications work from the ground up, exploring system defense and vulnerability analysis.
 ## Technical toolkit
-technologies para 🖥️ TI  & 🛡️ Ciberseguridad
+Technologies for 🖥️ TI  & 🛡️ Ciberseguridad
+
+
 **Backend and data**
 
 <p>
