@@ -80,5 +80,5 @@ Tecnologías para 🖥️ TI  & 🛡️ Ciberseguridad
 </p>
 
 <p align="center">
-  Rosario, Argentina · UTC-3
+  Lima, Perú · UTC-5
 </p>
