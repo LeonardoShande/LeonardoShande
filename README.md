@@ -71,13 +71,13 @@ Technologies for 🖥️ TI   &   🛡️ Cibersegurity
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+## Projects & open source
+coming soon 
    
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
- 
-  <a href="[https://github.com/LeonardoShande](https://github.com/LeonardoShande)"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.youtube.com/@securitytech"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
+   <a href="https://www.youtube.com/@securitytech"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
   <a href="https://www.instagram.com/securitytechnology__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
