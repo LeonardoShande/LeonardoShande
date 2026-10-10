@@ -8,9 +8,18 @@
   Building secure systems and talk of technology through securitytech.
 </p>
 
-I am a Student of Cibersegurity  based in Lima , Perú.Interested in understanding how applications work from the ground up, exploring system defense and vulnerability analysis.
+Self-taught in Cybersecurity | Linux, Networking, and Python | Project development and hands-on labs. 
+Based in Lima , Perú.Interested in understanding how applications work from the ground up, exploring system defense and vulnerability analysis.
+
+## Current role & focus
+Seguridad de redes - Linux y administración de sistemas - Seguridad de aplicaciones web -  Linux y administración de sistemas - Python para la automatización de la seguridad
+## Projects & open source
+Coming soon ...
+
+
+
 ## Technical toolkit
-Technologies for 🖥️ TI   &   🛡️ Cibersegurity
+Technologies for TI 🖥️   &   🛡️ Cibersegurity
 
 
 **Backend and data**
@@ -71,14 +80,17 @@ Technologies for 🖥️ TI   &   🛡️ Cibersegurity
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## Projects & open source
+## Education & certifications
 coming soon 
    
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-   <a href="https://www.youtube.com/@securitytech"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube channel" /></a>
+    <a href="www.linkedin.com/in/leonardo-pacheco-sarco"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
+   <a href="https://www.youtube.com/@securitytech"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/securitytechnology__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:leonardoshande.p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </p>
 
 <p align="center">
