@@ -86,8 +86,8 @@ coming soon
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
-    <a href="www.linkedin.com/in/leonardo-pacheco-sarco"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
-   <a href="https://www.youtube.com/@securitytech"><img src="https://img.shields.io/badge/YouTube_Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="[www.linkedin.com/in/leonardo-pacheco-sarco](https://www.linkedin.com/in/leonardo-pacheco-sarco/?isSelfProfile=true)"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a>
+   <a href="https://www.youtube.com/@securitytech"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/securitytechnology__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
     <a href="mailto:leonardoshande.p@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
