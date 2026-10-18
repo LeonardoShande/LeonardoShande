@@ -30,6 +30,23 @@ Coming soon ...
 </td>
 </tr>
 </table>
+<h2>Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&mode=light" />
+    <img src="https://www.gitskins.com/api/section/heatmap?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&mode=dark" width="100%" alt="0 contributions in the last year" />
+  </picture>
+</p>
+
+<hr />
+
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/octocat">GitHub</a><br /><a href="https://github.blog">Website</a></td>
+</tr>
+</table>
 
 
 ## Technical toolkit
