@@ -15,7 +15,21 @@ Based in Lima , Perú.Interested in understanding how applications work from the
 Network Security - Linux and System Administration - Web Application Security - Linux and System Administration - Python for Security Automation
 ## Projects & open source
 Coming soon ...
+<h2>Featured work</h2>
 
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<img src="https://www.gitskins.com/api/section/projects?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4" width="100%" alt="Featured projects" />
+</td>
+<td width="42%" valign="top">
+<h3><a href="https://github.com/octocat/Spoon-Knife"><strong>Spoon-Knife</strong></a></h3>
+<p>This repo is for demonstration purposes only.</p>
+<p><sub>HTML · ⭐ 14,124 stars · 160,240 forks</sub></p>
+<p><a href="https://github.com/octocat/Spoon-Knife">View project →</a></p>
+</td>
+</tr>
+</table>
 
 
 ## Technical toolkit
