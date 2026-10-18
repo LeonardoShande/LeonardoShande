@@ -101,7 +101,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   > **Cisco Networking Academy** — Networking fundamentals 
 
    <p align="center">
-  <img src="assets/assets/Carrusel_ciberseguridad.png" width="100%"alt="Ordenador seguro = ordenador apagado" />
+  <img src="assets/Carrusel_ciberseguridad.png" width="100%"alt="Ordenador seguro = ordenador apagado" />
    </p>
 
 <h2 align="center">Connect with me</h2>
