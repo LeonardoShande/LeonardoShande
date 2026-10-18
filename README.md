@@ -84,6 +84,8 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <a href="https://isocpp.org/">
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++"/>
   </a>
+  <a href="https://qiskit.org/" target="_blank"><img src="https://cdn.simpleicons.org/qiskit/6929C4" width="40" height="40" alt="Qiskit" />
+  </a>
 </p>
 
 
