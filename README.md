@@ -31,7 +31,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/>
   </a>
- <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://skillicons.dev/icons?i=mssql" width="40" height="40" alt="SQL Server"/>
+ <a href="https://www.microsoft.com/en-us/sql-server"> <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
  </a>
 </p>
 
@@ -54,11 +54,10 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <a href="https://www.linux.org/">
     <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="Linux"/>
   </a>
-  <a href="https://www.gnu.org/software/bash/">
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>
-  </a>
   <a href="https://www.microsoft.com/windows"> <img src="https://skillicons.dev/icons?i=windows" width="40" height="40" alt="Windows"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="Bash"/>
   </a>
   <a href="https://git-scm.com/">
     <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
@@ -75,11 +74,11 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript"/>
-  </a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.simpleicons.org/css/663399" width="40" height="40" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript"/>
   </a>
   <a href="https://isocpp.org/">
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++"/>
