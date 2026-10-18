@@ -75,11 +75,11 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://cdn.simpleicons.org/css/663399" width="40" height="40" alt="CSS"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript"/>
+  </a>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://cdn.simpleicons.org/css/663399" width="40" height="40" alt="CSS"/>
   </a>
   <a href="https://isocpp.org/">
     <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++"/>
