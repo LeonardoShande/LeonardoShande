@@ -13,6 +13,17 @@ Based in Lima , Perú.Interested in understanding how applications work from the
 
 ## Current role & focus
 Network Security - Linux and System Administration - Web Application Security - Linux and System Administration - Python for Security Automation
+
+
+<p align="center">
+  <img
+    src="./terminal-leonardo.svg"
+    alt="Terminal de Leonardo Shande"
+    width="100%"
+  />
+</p>
+
+
 ## Projects & open source
 Coming soon ...
 <h2>Featured work</h2>
@@ -28,23 +39,6 @@ Coming soon ...
 <p><sub>HTML · ⭐ 14,124 stars · 160,240 forks</sub></p>
 <p><a href="https://github.com/octocat/Spoon-Knife">View project →</a></p>
 </td>
-</tr>
-</table>
-<h2>Activity</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&mode=light" />
-    <img src="https://www.gitskins.com/api/section/heatmap?username=octocat&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F583231%3Fu%3Da59fef2a493e2b67dd13754231daf220c82ba84d%26v%3D4&mode=dark" width="100%" alt="0 contributions in the last year" />
-  </picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s build something</h2><p>Open to thoughtful collaboration, ambitious products, and useful open-source work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/octocat">GitHub</a><br /><a href="https://github.blog">Website</a></td>
 </tr>
 </table>
 
@@ -127,9 +121,17 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   
   > **Cisco Networking Academy** — Networking fundamentals 
 
-   <p align="center">
-  <img src="assets/Carrusel_ciberseguridad.png" width="100%"alt="Ordenador seguro = ordenador apagado" />
-   </p>
+
+<!--separador-->
+<p align="center">
+  <img
+    src="./separador-hacker-neon.svg"
+    alt="Separador de circuito neón"
+    width="100%"
+  />
+</p>
+
+
 
 <h2 align="center">Connect with me</h2>
 
