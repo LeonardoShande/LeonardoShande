@@ -17,7 +17,7 @@ Network Security - Linux and System Administration - Web Application Security - 
 
 <p align="center">
   <img
-    src="./terminal-leonardo.svg"
+    src="assets/terminal-leonardo.svg"
     alt="Terminal de Leonardo Shande"
     width="100%"
   />
@@ -125,7 +125,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
 <!--separador-->
 <p align="center">
   <img
-    src="./separador-hacker-neon.svg"
+    src="assets/separador-hacker-neon.svg"
     alt="Separador de circuito neón"
     width="100%"
   />
