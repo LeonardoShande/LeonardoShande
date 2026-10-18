@@ -32,7 +32,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
     <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/>
   </a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" height="50" alt="SQL Server" />
 </a>
 </p>
 
