@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/github_cyberpunk_infinite_banner.gif" width="100%" alt="Ordenador seguro = ordenador apagado" />
+</p>
+
 <h1 align="center"> Leonardo Pacheco</h1>
 
 <p align="center">
