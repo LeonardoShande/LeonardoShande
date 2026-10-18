@@ -31,9 +31,9 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/>
   </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="50" height="50" alt="SQL Server" />
-</a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/microsoftsqlserver.svg" width="55" height="55" alt="SQL Server" />
+  </a>
 </p>
 
   **Cloud & DevOps**
