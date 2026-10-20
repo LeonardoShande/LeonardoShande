@@ -38,13 +38,12 @@ Network Security - Linux and System Administration - Web Application Security - 
     </td>
     <td width="42%" valign="top">
       <h3>
-        <a href="https://github.com/LeonardoShande/01-foundations">
-          01 — Foundations
+        <a href="https://github.com/LeonardoShande/QubitGuard">
+          01 — QubitGuard
         </a>
       </h3>
       <p>
-        Ejercicios y proyectos para fortalecer mis fundamentos
-        de programación y resolución de problemas.
+        Project for IBM QUATUM hackathon 
       </p>
       <p>
         <sub>Python · Programming · Fundamentals</sub>
