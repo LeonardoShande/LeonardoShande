@@ -30,7 +30,7 @@ Network Security - Linux and System Administration - Web Application Security - 
     <td width="58%" valign="top">
       <a href="https://github.com/LeonardoShande/QubitGuard">
         <img
-          src="https://placehold.co/700x300/0b1110/39ff14?text=01+%7C+FOUNDATIONS"
+          src="https://placehold.co/700x300/0b1110/39ff14?text=IBM+%7C+QubitGuard"
           width="100%"
           alt="QubitGuard project preview"
         />
