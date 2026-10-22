@@ -1,0 +1,40 @@
+name: Enlaces
+
+# Revisa que los enlaces web del README sigan vivos: cada lunes, al cambiar el README
+# y a mano desde la pestaña Actions.
+on:
+  schedule:
+    - cron: "0 13 * * 1" # lunes 08:00 en Lima (UTC-5)
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/lychee.toml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: links-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lychee:
+    name: Enlaces rotos en el README
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Revisar los enlaces web del README
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: --config .github/lychee.toml README.md
+          fail: true
+        env:
+          # Evita el límite de peticiones de la API de GitHub al comprobar enlaces a github.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
