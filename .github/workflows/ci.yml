@@ -1,0 +1,60 @@
+name: CI
+
+# Se ejecuta en cada push a main, en cada pull request y a mano desde la pestaña Actions.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+# Permisos mínimos: estos jobs solo leen el repositorio.
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  tests:
+    name: Tests y validaciones (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Instalar Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v6
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Validar rutas locales del README
+        run: python scripts/check_readme.py
+
+      - name: Validar imágenes de assets/
+        run: python scripts/check_assets.py
+
+      - name: Ejecutar tests
+        run: python -m unittest discover -s tests -v
+
+  workflows:
+    name: Lint de workflows (actionlint)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Revisar la sintaxis de los workflows
+        uses: docker://rhysd/actionlint:1.7.12
+        with:
+          args: -color
