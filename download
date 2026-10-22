@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# EVE (repositorio privado): el workflow eve.yml lo descarga aquí; nunca debe subirse
+/.eve-checkout/
+
+# Secretos y credenciales: nunca deben llegar al repositorio
+.env
+.env.*
+*.pem
+*.key
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
