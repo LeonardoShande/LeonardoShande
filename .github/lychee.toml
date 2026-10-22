@@ -1,0 +1,19 @@
+# Configuración de lychee para revisar los enlaces web del README.
+# La usa .github/workflows/links.yml  ->  lychee --config .github/lychee.toml README.md
+
+# Solo enlaces web. Las rutas locales (assets/...) las valida scripts/check_readme.py.
+scheme = ["https", "http"]
+
+# Respuestas que cuentan como enlace válido. 429 = el sitio limita las peticiones.
+accept = ["200", "204", "429"]
+
+max_retries = 3
+retry_wait_time = 5
+timeout = 30
+
+# Redes sociales que bloquean a los bots aunque el perfil exista.
+exclude = [
+  '^https?://([a-z0-9-]+\.)?linkedin\.com',
+  '^https?://([a-z0-9-]+\.)?instagram\.com',
+  '^https?://(www\.)?(x|twitter)\.com',
+]
