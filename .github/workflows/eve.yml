@@ -1,0 +1,65 @@
+name: EVE
+
+# Conecta este repositorio público con EVE, tu repositorio privado, y comprueba que se puede
+# leer. Es OPCIONAL: sin el secreto EVE_TOKEN se omite sin fallar, salvo cuando lo lanzas a
+# mano desde la pestaña Actions (que es cuando quieres probar la conexión).
+#
+# OJO: los registros de Actions de un repositorio público los ve cualquiera. Ningún paso que
+# lea EVE debe imprimir nombres ni contenido suyo; scripts/check_eve.py solo imprime conteos.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 14 * * 1" # lunes 09:00 en Lima (UTC-5); avisa a tiempo si el token caducó
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/eve.yml
+      - scripts/check_eve.py
+      - scripts/findings.py
+
+permissions:
+  contents: read
+
+concurrency:
+  group: eve-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  eve:
+    name: Conexión con EVE
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Descargar este repositorio
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      # El secreto solo se expone a este paso y se convierte en un simple sí/no para los demás.
+      - name: Comprobar si hay token de EVE
+        id: token
+        env:
+          EVE_TOKEN: ${{ secrets.EVE_TOKEN }}
+        run: |
+          if [ -n "$EVE_TOKEN" ]; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+          elif [ "$GITHUB_EVENT_NAME" = "workflow_dispatch" ]; then
+            echo "::error title=Falta el secreto EVE_TOKEN::Crea el secreto en Settings > Secrets and variables > Actions con un token de solo lectura sobre EVE."
+            exit 1
+          else
+            echo "::notice title=EVE sin conectar::Falta el secreto EVE_TOKEN; se omite esta comprobación."
+            echo "available=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Descargar EVE (repositorio privado)
+        if: steps.token.outputs.available == 'true'
+        uses: actions/checkout@v6
+        with:
+          repository: LeonardoShande/EVE
+          token: ${{ secrets.EVE_TOKEN }}
+          path: .eve-checkout
+          persist-credentials: false
+
+      - name: Comprobar EVE
+        if: steps.token.outputs.available == 'true'
+        run: python3 scripts/check_eve.py
