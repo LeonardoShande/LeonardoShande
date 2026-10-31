@@ -107,8 +107,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
     <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
   </a>
   <a href="https://github.com/">
-    <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="GitHub"/>
-  </a>
+     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>  </a>
  
 </p>
 
@@ -141,13 +140,6 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
 
 
 <!--separador-->
-<p align="center">
-  <img
-    src="assets/separador-hacker-neon.svg"
-    alt="Separador de circuito neón"
-    width="100%"
-  />
-</p>
 
 
 
