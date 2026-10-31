@@ -107,7 +107,8 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
     <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>
   </a>
   <a href="https://github.com/">
-     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>  </a>
+     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40" height="40" alt="GitHub"/>  
+  </a>
  
 </p>
 
