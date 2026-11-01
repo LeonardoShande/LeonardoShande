@@ -32,42 +32,39 @@ Network Security - Linux and System Administration - Web Application Security - 
 </p>
 
 ## Projects & open source
-<table width="100%">
-  <tr>
-    <td width="58%" valign="top">
-      <a href="https://github.com/LeonardoShande/QubitGuard">
-        <img
-          src="https://placehold.co/700x300/0b1110/39ff14?text=IBM+%7C+QubitGuard"
-          width="100%"
-          alt="QubitGuard project preview"
-        />
-      </a>
-    </td>
-    <td width="42%" valign="top">
-      <h3>
-        <a href="https://github.com/LeonardoShande/QubitGuard">
-          01 — QubitGuard
-        </a>
-      </h3>
-      <p>
-        Project for IBM QUATUM hackathon 
-      </p>
-      <p>
-        <sub>Python · Programming · Qiskit</sub>
-      </p>
-      <p>
-        <a href="https://github.com/LeonardoShande/01-foundations">
-          View repository →
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
 
+<table>
+<tr>
+<td width="50%">
+<h3> QubitGuard</h3>
+Quantum Cybersecurity Dashboard
+
+Python · Qiskit
+
+<a href="https://github.com/LeonardoShande/QubitGuard">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-1677D2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+
+<td width="50%">
+<h3> Python-Security-Lab </h3>
+cybersecurity lab
+
+HTML · python · JavaScript
+
+<a href="https://github.com/LeonardoShande/Python-Security-Lab">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-1677D2?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+
+
+</table>
 ---
 
 #MORE PROYECTS COMING SOON ...
 
+<!--separator -->
 
 <p align="center">
   <img
@@ -76,6 +73,7 @@ Network Security - Linux and System Administration - Web Application Security - 
     alt="separador"
   />
 </p>
+<!--sepaator -->
 
 ## Technical toolkit
 Technologies for TI 🖥️   &   🛡️ Cibersegurity
@@ -156,8 +154,6 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   > **Cisco Networking Academy** — Networking fundamentals 
 
 
-<!--separador coming soon -->
-
 
 
 <h2 align="center">Connect with me</h2>
@@ -179,4 +175,12 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
 
 <p align="center">
   Lima, Perú · UTC-5
+</p>
+
+<p align="center">
+  <img
+    src="./assets/footer-no-particles.gif"
+    width="100%"
+    alt="separador"
+  />
 </p>
