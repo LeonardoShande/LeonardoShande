@@ -180,7 +180,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
 
 <p align="center">
   <img
-    src="./assets/footer-verde.gif"
+    src="./assets/Footer-verde.gif"
     width="1600%"
     alt="FOOTER"
   />
