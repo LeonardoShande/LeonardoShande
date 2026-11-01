@@ -181,7 +181,6 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   <img
     src="./assets/footer-no-particles.gif"
     width="1600%"
-    alt="separador"
-     style="display:block;"
+    alt="FOOTER"
   />
 </p>
