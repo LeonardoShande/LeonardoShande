@@ -25,7 +25,7 @@ Network Security - Linux and System Administration - Web Application Security - 
 
 <p align="center">
   <img
-    src="./assets/venom_abajo.gif"
+    src="./assets/venom_arriba.gif"
     width="100%"
     alt="separador"
   />
