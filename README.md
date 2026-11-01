@@ -68,6 +68,15 @@ Network Security - Linux and System Administration - Web Application Security - 
 
 #MORE PROYECTS COMING SOON ...
 
+
+<p align="center">
+  <img
+    src="./assets/venom_arriba.gif"
+    width="100%"
+    alt="separador"
+  />
+</p>
+
 ## Technical toolkit
 Technologies for TI 🖥️   &   🛡️ Cibersegurity
 
