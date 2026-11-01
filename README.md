@@ -154,16 +154,6 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   > **Cisco Networking Academy** — Networking fundamentals 
 
 
-<p align="center">
-  <img
-    src="./assets/leo-separator.gif"
-    width="1600%"
-    alt="FOOTER"
-  />
-</p>
-
-
-
 
 <h2 align="center">Connect with me</h2>
 
@@ -186,9 +176,11 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
   Lima, Perú · UTC-5
 </p>
 
+
+
 <p align="center">
   <img
-    src="./assets/leo-footer.gif"
+    src="./assets/leo-separator.gif"
     width="1600%"
     alt="FOOTER"
   />
