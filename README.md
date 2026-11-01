@@ -68,7 +68,7 @@ HTML · python · JavaScript
 
 <p align="center">
   <img
-    src="./assets/leo-footer.gif"
+    src="./assets/leo-separator.gif"
     width="100%"
     alt="separador"
   />
