@@ -23,6 +23,13 @@ Network Security - Linux and System Administration - Web Application Security - 
   />
 </p>
 
+<p align="center">
+  <img
+    src="./assets/venom_abajo.gif"
+    width="100%"
+    alt="separador"
+  />
+</p>
 
 ## Projects & open source
 <table width="100%">
