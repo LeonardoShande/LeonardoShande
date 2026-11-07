@@ -66,13 +66,7 @@ HTML · python · JavaScript
 
 <!--separator -->
 
-<p align="center">
-  <img
-    src="./assets/leo-separator.gif"
-    width="100%"
-    alt="separador"
-  />
-</p>
+
 <!--sepaator -->
 
 ## Technical toolkit
