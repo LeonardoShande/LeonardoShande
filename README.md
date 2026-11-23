@@ -37,7 +37,7 @@ Network Security - Linux and System Administration - Web Application Security - 
 <tr>
 <td width="50%">
 <h3> QubitGuard</h3>
-Quantum Cybersecurity Dashboard
+Quantum Cybersecurity 
 
 Python · Qiskit
 
