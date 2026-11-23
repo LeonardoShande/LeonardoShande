@@ -8,7 +8,7 @@
   Building secure systems and talk of technology through securitytech.
 </p>
 
-Self-taught in Cybersecurity | Linux, Networking, and Python | Project development and hands-on labs. 
+ Cybersecurity Student | Linux, Networking, and Python | Project development and hands-on labs. 
 Based in Lima , Perú.Interested in understanding how applications work from the ground up, exploring system defense and vulnerability analysis.
 
 ## Current role & focus
@@ -143,6 +143,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
 ## Learning & Certifications
 
 - **SYSTEMS DEVELOPMENT**, Instituto Simón Bolivar - a cycle, retired Dec. 2024
+- - **ENGINEER CYBERSECURITY**, Universidad Norbert Wiener - present,  March. 2027
   > **Hack The Box Academy** — Cybersecurity training 
   
   > **Cisco Networking Academy** — Networking fundamentals 
