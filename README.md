@@ -143,7 +143,7 @@ Technologies for TI 🖥️   &   🛡️ Cibersegurity
 ## Learning & Certifications
 
 - **SYSTEMS DEVELOPMENT**, Instituto Simón Bolivar - a cycle, retired Dec. 2024
-- - **ENGINEER CYBERSECURITY**, Universidad Norbert Wiener - present,  March. 2027
+- **ENGINEER CYBERSECURITY**, Universidad Norbert Wiener - present,  March. 2027
   > **Hack The Box Academy** — Cybersecurity training 
   
   > **Cisco Networking Academy** — Networking fundamentals 
