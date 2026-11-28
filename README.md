@@ -57,7 +57,8 @@ HTML · python · JavaScript
 #MORE PROYECTS COMING SOON ...
 
 <!--separator -->
-```
+
+<!---
 <p align="center">
   <img
     src="./assets/venom_arriba.gif"
@@ -65,7 +66,8 @@ HTML · python · JavaScript
     alt="separador"
   />
 </p>
-````
+--->
+
 <!--sepaator -->
 
 ## Technical toolkit
