@@ -23,14 +23,6 @@ Network Security - Linux and System Administration - Web Application Security - 
   />
 </p>
 
-<p align="center">
-  <img
-    src="./assets/venom_arriba.gif"
-    width="100%"
-    alt="separador"
-  />
-</p>
-
 ## Projects & open source
 
 <table>
@@ -65,8 +57,15 @@ HTML · python · JavaScript
 #MORE PROYECTS COMING SOON ...
 
 <!--separator -->
-
-
+```
+<p align="center">
+  <img
+    src="./assets/venom_arriba.gif"
+    width="100%"
+    alt="separador"
+  />
+</p>
+````
 <!--sepaator -->
 
 ## Technical toolkit
